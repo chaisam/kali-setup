@@ -1,0 +1,10 @@
+/** Basic config file **/
+
+configuration {
+ show-icons:         true;
+ icon-theme:         "Papirus";
+ modi: "window,drun,ssh,combi";
+ font: "hack 16";
+ combi-modi: "window,drun,ssh";
+}
+@import "~/.config/i3/sidebar.rasi"
