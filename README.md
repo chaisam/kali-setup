@@ -1,1 +1,1 @@
-# Kali-Setup - bash script for new kali vm
+# Kali-Setup - Bash script to setup dotfiles & few programs on a new Kali Linux VM
